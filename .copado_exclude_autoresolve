@@ -1,0 +1,2 @@
+#exclude classes in a classes folder
+**/classes/*.cls
